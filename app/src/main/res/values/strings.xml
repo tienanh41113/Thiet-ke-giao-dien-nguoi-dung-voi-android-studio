@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txtInfo">Your Infor:</string>
+    <string name="btnOK">OK</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="edtTen">Name</string>
+    <string name="edtMail">Phone</string>
+    <string name="rdNam">Male</string>
+    <string name="rdNu">Female</string>
+    <string name="txtLan">Languages</string>
+    <string name="txtNote">Note</string>
+    <string name="inputNote"></string>
+    <string-array name="lan_array">
+        <item>Vietnam</item>
+        <item>United State</item>
+        <item>France</item>
+        <item>Russia</item>
+    </string-array>
+</resources>
